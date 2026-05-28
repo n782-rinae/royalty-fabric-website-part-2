@@ -1,7 +1,8 @@
 royalty-fabric-website
 Royalty Fabric Website
 Student Information
-Name: [Rinaye Ndou] Student Number: [ST10470759]
+Name: [Rinaye Ndou] 
+Student Number: [ST10470759]
 
 Project Overview
 This project is a website developed for Royalty Fabric, a local retail store.
