@@ -94,17 +94,9 @@ Responsive testing was completed using browser developer tools.
 ## References
 (## References
 
-Chaffey, D. and Ellis-Chadwick, F. (2019) Digital Marketing. 7th ed. Harlow: Pearson. Available at: https://www.pearson.com (Accessed: 15 April 2026).
+Marcotte, E., 2014. Responsive Web Design. 2nd ed. New York: A Book Apart. Available at: https://abookapart.com/products/responsive-web-design [Accessed 29 May 2026]. 
 
-Garrett, J.J. (2011) The Elements of User Experience: User-Centered Design for the Web and Beyond. 2nd ed. Berkeley: New Riders. Available at: https://www.pearson.com (Accessed: 15 April 2026).
+Mozilla Developer Network (MDN), 2026. CSS Flexible Box Layout. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout [Accessed 29 May 2026]. 
 
-Krug, S. (2014) Don’t Make Me Think: A Common Sense Approach to Web Usability. 3rd ed. Berkeley: New Riders. Available at: https://www.sensible.com (Accessed: 15 April 2026).
-
-Ryan, D. (2017) Understanding Digital Marketing: Marketing Strategies for Engaging the Digital Generation. 4th ed. London: Kogan Page. Available at: https://www.koganpage.com (Accessed: 15 April 2026).
-
-Gift of the Givers Foundation (2026) Official Website. Available at: https://giftofthegivers.org (Accessed: 15 April 2026).
-
-Pexels (2026) Free Stock Photos. Available at: https://www.pexels.com (Accessed: 15 April 2026).
-
-Unsplash (2026) Free Images. Available at: https://unsplash.com (Accessed: 15 April 2026).)
+W3Schools, 2026. CSS Responsive Web Design. Available at: https://www.w3schools.com/css/css_rwd_intro.asp [Accessed 29 May 2026]. 
 
